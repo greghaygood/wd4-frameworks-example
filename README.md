@@ -2,7 +2,7 @@
 
 - this is a new line from greg
 
-- This a new line from mel
+- This is a new line from mel
 
 -this is a new line from Peter
 
