@@ -3,7 +3,9 @@ var sass = require('gulp-sass');
 var plumber = require('gulp-plumber');
 
 var onError = function(err) {
-	// to be filled in
+	console.log('An error occurred:', gutil.colors.magenta(err.message));
+	gutil.beep();
+	this.emit('end');
 };
 
 gulp.task('scss', function() {
