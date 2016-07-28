@@ -1,0 +1,24 @@
+{
+  "name": "wd4-frameworks-example",
+  "version": "1.0.0",
+  "description": "gulp example for webdev4 class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greghaygood/wd4-frameworks-example.git"
+  },
+  "author": "Greg Haygood <ghaygood@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greghaygood/wd4-frameworks-example/issues"
+  },
+  "homepage": "https://github.com/greghaygood/wd4-frameworks-example#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
