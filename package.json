@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/greghaygood/wd4-frameworks-example#readme",
   "devDependencies": {
+    "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^2.3.2",
