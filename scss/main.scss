@@ -1,2 +1,10 @@
 
+@import 'vendor/reset';
+
 @import 'base/variables';
+@import 'base/mixins';
+
+@import 'components/header';
+@import 'components/nav';
+
+@import 'pages/home';
